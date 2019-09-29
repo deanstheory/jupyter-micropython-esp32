@@ -8,10 +8,14 @@ MicroPython sample code presented include:
 - Control of a LED from GPIO pins.
 - Hardware timers.
 - Pulse Width Modulation (PWM).
-- Triggering an LED from a hardware interrupt.
-- Introduction to ESP32 Wifi.
-- MicroPython upip package manager.
-- ESP32 deepsleep.
+- Triggering a LED from a hardware interrupt.
+- Driving Neopixel.
 - Execution of %local notebook cells and interaction with MicroPython remotely.
+- I2C bus scan and BME280 sensor control.
+- Introduction to ESP32 Wifi.
+- Set RTC from NTP server
+- HTTP requests
+- ESP32 deepsleep.
 - Upload scripts to the microcontroller.
+- Sigrok PulseView and logic analyzers.
 
