@@ -1,5 +1,7 @@
 # jupyter-micropython-esp32
 
+<img src="assets/jupyter-micropython-esp32-2.png">
+
 This notebook introduces MicroPython running on ESP32 based microcontrollers. 
 
 Jupyter Notebook running the MicroPython Remote kernel is used to interact with an ESP32 microcontroller over its REPL interface. An overview of the ESP32 hardware and associated MicroPython libraries is presented. 
